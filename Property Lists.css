@@ -1,0 +1,13 @@
+/* Two values in this property list */
+h1
+{
+    text-shadow: yellow 0 0 3px, green 4px 4px 10px;
+   } h1
+/* Alternate Formatting */
+
+{
+    text-shadow:
+    yellow 0 0 3px,
+    green 4px 4px 10px;
+   } 
+   p, .blue, #first, div span{ color : blue }
